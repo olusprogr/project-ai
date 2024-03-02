@@ -1,4 +1,4 @@
 /config
 /.env
-/db
+db/db
 /.idea
